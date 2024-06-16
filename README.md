@@ -169,32 +169,59 @@ The different categories of each pizza is shown in the table above.
 
 1. Rank pizza types based on their popularity using window functions.
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/a75b1d85-383c-4a8d-a0c7-930f7f047232)
 
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/63d1c8b1-e743-45bd-b9bb-16e934635977)
+
+
+The Classic Deluxe Pizza is the most popular pizza type based on orders.
 
 
 2. Identify the first pizza ordered in each order session.
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/f40876d0-a476-4953-acca-197b4c764542)
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/a0c8899f-b838-462f-a657-01c25d449d5d)
 
 
 
 3. Segment customers into quartiles based on the number of orders they have placed.
 
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/6cd2f16c-e3a6-4ef9-a46a-2b65638d9a8d)
+
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/2c0dc02b-1010-47a8-bbff-e59d9bb3e416)
 
 
 4. Categorize each order day into Weekday or Weekend and analyze the sales volume.
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/986000a8-a94c-4aad-8ec2-07845894888e)
 
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/a908bf2a-915c-4267-bf22-987675bafa42)
+
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/e8b97827-4488-4414-85d8-379794c651c2)
+
+
+The sales volume on the Weekday is 36,046, and Weekend is 13,528.
 
 
 5. Calculate the total sales for each month and categorize them into Low, Medium, and High sales quarters.
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/39682843-2d4b-4257-81f4-28a78cc1e6bc)
 
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/0d9acdfe-d758-4bf5-a538-1616a5590ffe)
 
 
 6. Categorize the day of each order into seasons and calculate total sales per season.
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/d76bac18-21bc-414d-b59c-7acb4a06c11b)
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/9cf6a3bf-c6bb-46a8-9d8c-dbd07f232041)
 
 
 7. For each pizza category, how many pizzas were sold monthly?
