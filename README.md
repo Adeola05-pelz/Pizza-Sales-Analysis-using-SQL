@@ -226,17 +226,45 @@ The sales volume on the Weekday is 36,046, and Weekend is 13,528.
 
 7. For each pizza category, how many pizzas were sold monthly?
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/4b949f57-e5a3-4990-bea1-5bc6354892c6)
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/6dffb039-2bf2-4e6f-bb80-bd1703ffec5e)
 
+The table above shows the number of pizzas sold monthly per category.
 
 8. What are the highest selling pizza categories for each month?
 
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/41a42847-c0bf-4aa9-bf34-fee3d24e7793)
+
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/06e90b25-471b-468b-93c0-7fae723dc32a)
 
 
 9. For each pizza type, calculate the total revenue and classify them into above and below average based on their comparison to the overall average.
 
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/0f1ed0f1-dd3a-4889-9538-832f8df39917)
 
 
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/59c13ad8-c1c3-441a-81ad-64d069ce5ad9)
 
+
+The table above shows the class of each pizza type based on the comparison of the total revenue to the overall average revenue.
+
+# Recommendations: #
+
+# Advanced Insight Analysis Recommendations: #
+
+   · The company should focus more on Large-sized pizzas as they are the most ordered pizzas.
+
+# Strategic Analysis Recommendations: #
+
+   · Introducing variations or promotional offers around Classic Deluxe Pizza can further boost its sales due to its popularity among customers
+
+   · Introducing limited-time offers to cater to the Brie Carrie Pizza audience to level up its demand and sales.
+
+   · Given the sales volume on Weekdays, the company might consider staffing adjustments and promotional offers on weekends to balance the demand.
+
+
+The company is built on a solid foundation. By utilizing the insights from the data and implementing the recommendations provided, there is significant potential to optimize operations and improve customer satisfaction.
