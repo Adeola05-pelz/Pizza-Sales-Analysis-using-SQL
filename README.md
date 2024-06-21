@@ -22,7 +22,12 @@ The analysis revolves around a comprehensive dataset from a pizza business that 
 
 More information on the data dictionary below:
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/0c9345f2-2ec3-4493-bfc3-c3a250c9a495)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/fd78fba6-681e-4991-8f9d-436203006317)
+
+
+# Data Model #
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/50db17fc-6a28-4287-b0ab-897aa17ce715)
 
 
 # Objective #
