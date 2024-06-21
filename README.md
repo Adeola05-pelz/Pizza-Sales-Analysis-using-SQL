@@ -101,7 +101,6 @@ The ingredients used in The Barbecue Chicken Pizza are Barbecued Chicken, Red Pe
 
 
 
-
 # Advanced Insights #
 
 
@@ -161,12 +160,12 @@ The most popular pizza size based on the number of orders is Large, with 18,526 
 
 6. Categorize pizzas into 'Expensive' and 'Affordable' based on their price.
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/fd31b2d0-9e9c-418e-8e72-f24b43cf017f)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/d8e478fb-11dd-4917-be50-621ebd256e2c)
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/79b04a14-e3ae-468d-8df5-96bf674899e8)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/92663f83-8048-4f62-a610-7245b0acc2fc)
 
-The different categories of each pizza is shown in the table above.
 
+The different categories of each pizza are shown in the table above. The Big Meat pizza is the most ordered pizza, as seen in the table above
 
 
 # Strategic Analysis #
@@ -224,16 +223,20 @@ The sales volume on the Weekday is 36,046, and Weekend is 13,528.
 
 6. Categorize the day of each order into seasons and calculate total sales per season.
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/d76bac18-21bc-414d-b59c-7acb4a06c11b)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/8b536b1b-656b-470a-8783-c62efa1e66f6)
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/9cf6a3bf-c6bb-46a8-9d8c-dbd07f232041)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/5ff8c0bc-c3b5-4cdf-be9a-3533eb0985fb)
 
 
 7. For each pizza category, how many pizzas were sold monthly?
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/4b949f57-e5a3-4990-bea1-5bc6354892c6)
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/b4136525-e25d-497c-8520-c916724a3970)
 
-![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/6dffb039-2bf2-4e6f-bb80-bd1703ffec5e)
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/ab75155a-6ee1-4879-bd8c-e824020784d0)
+
+![image](https://github.com/Adeola05-pelz/Pizza-Sales-Analysis-using-SQL/assets/111251042/b62227ab-50e1-4eb4-a3a9-37c193ba85d6)
+
 
 The table above shows the number of pizzas sold monthly per category.
 
